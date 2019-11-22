@@ -1,0 +1,12 @@
+body{
+    background-color: darkslategrey;
+}
+
+.cards-container{
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+.card{
+    margin:20px;
+}
